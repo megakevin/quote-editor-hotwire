@@ -1,0 +1,12 @@
+{
+    "editor.tabSize": 2,
+
+    "emmet.includeLanguages": {
+        "erb": "html"
+    },
+
+    "solargraph.useBundler": true,
+    "solargraph.formatting": true,
+    "solargraph.diagnostics": true,
+    "solargraph.completion": true
+}
